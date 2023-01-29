@@ -1,25 +1,116 @@
-origin	git@github.com:Bastien18/DAI-2022-UDP-Orchestra.git (fetch)
-origin	git@github.com:Bastien18/DAI-2022-UDP-Orchestra.git (push)
-Starting auditor container "6ab6b4d436a4c175b6683f0ca45985422f828454a9a30a7d6614701fe5a49a99"
-Starting auditor container "7f75037486f46dc19a702fdb00605a1859ead2042c60eeb39e49567313721c5f"
-Starting auditor container "1b5ba0bcd235230fc438db292e1d06d46da907b2897ded6b0ea234d82d973575"
-Starting auditor container "b4d53a8dcf0068c1eafbb13222fa387879b3bca2c1f395a53d0576c6a5410c77"
-Starting auditor container "55274e1979b0d77365399cfff45ccd506e3e312d178a8f06c8a4168bd8957da8"
-Starting auditor container "bd9600f19f89e85973205f51f35296dfbe3a0345b135e07e0b96791a76d3e4d8"
-Starting auditor container "13dc28d23787e333289b74dee96b5871ac9b9084bd1ad03ba5ffedfd85f5c292"
-Starting auditor container "a75091c210cac46a81094d0a282964e297f1a51a3d96025150371b88ae1a20b4"
-Starting auditor container "19e37f79b7204ff4298caceac18f60e6f0861470e2b3e2eff92acc714de7f9b7"
-Starting auditor container "17e68bb7df8a46d4b303489b4dded2c25df915d0c867f03539f8fe681326a892"
-Starting auditor container "2a1a5c691caf7c2bd27d8c7b43e5b21bca3a30b2c8811bef06b34ef2a65c2d59"
+origin	https://github.com/Bastien18/DAI-2022-UDP-Orchestra (fetch)
+origin	https://github.com/Bastien18/DAI-2022-UDP-Orchestra (push)
+Starting auditor container "d947ab3f59dec7506d08d681a1208b8feb123039f8eb407af9368c1f8886e94a"
+Starting auditor container "54f4f3c3c2c8a6d3e119683eb43c98a0365b7582f8b1865daa8b3976041ed8c0"
+Starting auditor container "06028791116c92fda17469f54e0e78c83524782e2fd9262301234808076229c0"
+Starting auditor container "c1b679dd75f7cb846b00fdb7152f97ecda8c1d2ede9bc561def18560e4df6feb"
+Starting auditor container "d3c1bbfda8181988ace309d462e48480c6834d96508f8859302da0d9c7ac73f9"
+Starting auditor container "fae15854df5b1f6755ea8203863e595e2356351f01a06b5f62d2660860ff0ebb"
+Starting auditor container "b4fb3596907d0b2ed0ead129cbc08be886ef74a4a6c8c709b804196a699df423"
+Starting auditor container "f9ed01ed27c6cbc5a4bf09d9882cc2a19cfedcb021b6287f122c5a007c3ad8d0"
+Starting auditor container "afc46101bb0b1a6a2db86740ddc513c2c1fbd894b66452d5e482e3d3c7420bab"
+Starting auditor container "69432cca07f331339466d7bb3ff1ca7721c87ef5bec9ca8d1b8a8bf3742f15ce"
+Starting auditor container "a68c93630320abacf2ee4564eb1074b11da61a4cdce5cd3f004503e97cbc8051"
 11 containers have been started.
-55274e1979b0d77365399cfff45ccd506e3e312d178a8f06c8a4168bd8957da8 : app.js,drum
-17e68bb7df8a46d4b303489b4dded2c25df915d0c867f03539f8fe681326a892 : app.js,violin
-a75091c210cac46a81094d0a282964e297f1a51a3d96025150371b88ae1a20b4 : app.js,trumpet
-b4d53a8dcf0068c1eafbb13222fa387879b3bca2c1f395a53d0576c6a5410c77 : app.js,flute
-1b5ba0bcd235230fc438db292e1d06d46da907b2897ded6b0ea234d82d973575 : app.js,drum
-13dc28d23787e333289b74dee96b5871ac9b9084bd1ad03ba5ffedfd85f5c292 : app.js,piano
-6ab6b4d436a4c175b6683f0ca45985422f828454a9a30a7d6614701fe5a49a99 : app.js,flute
-19e37f79b7204ff4298caceac18f60e6f0861470e2b3e2eff92acc714de7f9b7 : app.js,trumpet
-2a1a5c691caf7c2bd27d8c7b43e5b21bca3a30b2c8811bef06b34ef2a65c2d59 : app.js,drum
-bd9600f19f89e85973205f51f35296dfbe3a0345b135e07e0b96791a76d3e4d8 : app.js,violin
-7f75037486f46dc19a702fdb00605a1859ead2042c60eeb39e49567313721c5f : app.js
+d3c1bbfda8181988ace309d462e48480c6834d96508f8859302da0d9c7ac73f9 : app.js,trumpet
+a68c93630320abacf2ee4564eb1074b11da61a4cdce5cd3f004503e97cbc8051 : app.js,drum
+b4fb3596907d0b2ed0ead129cbc08be886ef74a4a6c8c709b804196a699df423 : app.js,drum
+c1b679dd75f7cb846b00fdb7152f97ecda8c1d2ede9bc561def18560e4df6feb : app.js,piano
+afc46101bb0b1a6a2db86740ddc513c2c1fbd894b66452d5e482e3d3c7420bab : app.js,trumpet
+f9ed01ed27c6cbc5a4bf09d9882cc2a19cfedcb021b6287f122c5a007c3ad8d0 : app.js,drum
+54f4f3c3c2c8a6d3e119683eb43c98a0365b7582f8b1865daa8b3976041ed8c0 : app.js,drum
+d947ab3f59dec7506d08d681a1208b8feb123039f8eb407af9368c1f8886e94a : app.js,piano
+06028791116c92fda17469f54e0e78c83524782e2fd9262301234808076229c0 : app.js,trumpet
+fae15854df5b1f6755ea8203863e595e2356351f01a06b5f62d2660860ff0ebb : app.js,piano
+69432cca07f331339466d7bb3ff1ca7721c87ef5bec9ca8d1b8a8bf3742f15ce : app.js
+[ 'drum',
+  'drum',
+  'drum',
+  'drum',
+  'piano',
+  'piano',
+  'piano',
+  'trumpet',
+  'trumpet',
+  'trumpet' ]
+
+
+
+[ 'drum',
+  'drum',
+  'drum',
+  'drum',
+  'piano',
+  'piano',
+  'piano',
+  'trumpet',
+  'trumpet',
+  'trumpet' ]
+Auditor validation: success: ["drum","drum","drum","drum","piano","piano","piano","trumpet","trumpet","trumpet"]
+There are 10 musicians, let's kill one
+killed d947ab3f59dec7506d08d681a1208b8feb123039f8eb407af9368c1f8886e94a
+[ 'drum',
+  'drum',
+  'drum',
+  'drum',
+  'piano',
+  'piano',
+  'trumpet',
+  'trumpet',
+  'trumpet' ]
+
+
+
+[ 'drum',
+  'drum',
+  'drum',
+  'drum',
+  'piano',
+  'piano',
+  'trumpet',
+  'trumpet',
+  'trumpet' ]
+Auditor validation: success: ["drum","drum","drum","drum","piano","piano","trumpet","trumpet","trumpet"]
+Scheduling a new test
+There are 9 musicians, let's kill one
+killed fae15854df5b1f6755ea8203863e595e2356351f01a06b5f62d2660860ff0ebb
+[ 'drum',
+  'drum',
+  'drum',
+  'drum',
+  'piano',
+  'trumpet',
+  'trumpet',
+  'trumpet' ]
+
+
+
+[ 'drum',
+  'drum',
+  'drum',
+  'drum',
+  'piano',
+  'trumpet',
+  'trumpet',
+  'trumpet' ]
+Auditor validation: success: ["drum","drum","drum","drum","piano","trumpet","trumpet","trumpet"]
+Scheduling a new test
+There are 8 musicians, let's kill one
+killed afc46101bb0b1a6a2db86740ddc513c2c1fbd894b66452d5e482e3d3c7420bab
+[ 'drum', 'drum', 'drum', 'drum', 'piano', 'trumpet', 'trumpet' ]
+
+
+
+[ 'drum', 'drum', 'drum', 'drum', 'piano', 'trumpet', 'trumpet' ]
+Auditor validation: success: ["drum","drum","drum","drum","piano","trumpet","trumpet"]
+Scheduling a new test
+There are 7 musicians, let's kill one
+killed 54f4f3c3c2c8a6d3e119683eb43c98a0365b7582f8b1865daa8b3976041ed8c0
+[ 'drum', 'drum', 'drum', 'piano', 'trumpet', 'trumpet' ]
+
+
+
+[ 'drum', 'drum', 'drum', 'piano', 'trumpet', 'trumpet' ]
+Auditor validation: success: ["drum","drum","drum","piano","trumpet","trumpet"]
+Scheduling a new test
+We have done all tests.

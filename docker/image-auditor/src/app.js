@@ -33,7 +33,7 @@ function onConnect(socket){
 
     const payload = JSON.stringify(content.map(([uuid, musician]) => ({
         uuid,
-        instruments: musician.instrument,
+        instrument: musician.instrument,
         activeSince: new Date(musician.activeSince),
     })));
 
